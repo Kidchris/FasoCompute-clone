@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/wp-content/plugins/ocean-extra/includes/metabox/controls/image/%7B%7B%20data.src">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/wp-content/plugins/ocean-extra/includes/metabox/controls/image/%7B%7B%20data.src";
+		</script>
+
+		<p>You are being redirected to <a href="/wp-content/plugins/ocean-extra/includes/metabox/controls/image/%7B%7B%20data.src">/wp-content/plugins/ocean-extra/includes/metabox/controls/image/%7B%7B%20data.src</a></p>
+	</body>
+</html>
