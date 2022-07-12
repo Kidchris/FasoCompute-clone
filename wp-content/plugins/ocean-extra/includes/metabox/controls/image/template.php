@@ -12,7 +12,7 @@
 	<input type="hidden" class="butterbean-attachment-id" name="{{ data.field_name }}" value="{{ data.value }}">
 
 	
-		<img class="butterbean-img" src="/https://kidchris.github.io/FasoCompute-clone/wp-content/plugins/ocean-extra/includes/metabox/controls/image/{{ data.src }}" alt="{{ data.alt }}">
+		<img class="butterbean-img" src="https://Kidchris.github.io/FasoCompute-clone/wp-content/plugins/ocean-extra/includes/metabox/controls/image/{{ data.src }}" alt="{{ data.alt }}">
 	
 		<div class="butterbean-placeholder">{{ data.l10n.placeholder }}</div>
 	

@@ -6,11 +6,11 @@
 
 @font-face {
   font-family: "foundation-icons";
-  src: url("/https://kidchris.github.io/FasoCompute-clone/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/foundation-icons.eot");
-  src: url("/https://kidchris.github.io/FasoCompute-clone/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/foundation-icons.eot#iefix") format("embedded-opentype"),
-       url("/https://kidchris.github.io/FasoCompute-clone/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/foundation-icons.woff") format("woff"),
-       url("/https://kidchris.github.io/FasoCompute-clone/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/foundation-icons.ttf") format("truetype"),
-       url("/https://kidchris.github.io/FasoCompute-clone/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/foundation-icons.svg#fontcustom") format("svg");
+  src: url("https://Kidchris.github.io/FasoCompute-clone/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/foundation-icons.eot");
+  src: url("https://Kidchris.github.io/FasoCompute-clone/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/foundation-icons.eot#iefix") format("embedded-opentype"),
+       url("https://Kidchris.github.io/FasoCompute-clone/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/foundation-icons.woff") format("woff"),
+       url("https://Kidchris.github.io/FasoCompute-clone/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/foundation-icons.ttf") format("truetype"),
+       url("https://Kidchris.github.io/FasoCompute-clone/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/foundation-icons.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }

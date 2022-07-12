@@ -5,11 +5,11 @@
  */
 @font-face {
     font-family: "ea-admin-icon";
-    src: url("/https://kidchris.github.io/FasoCompute-clone/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/admin-icon.eot?krajj6");
-    src: url("/https://kidchris.github.io/FasoCompute-clone/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/admin-icon.eot?krajj6#iefix") format("embedded-opentype"),
-    url("/https://kidchris.github.io/FasoCompute-clone/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/admin-icon.ttf?krajj6") format("truetype"),
-    url("/https://kidchris.github.io/FasoCompute-clone/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/admin-icon.woff?krajj6") format("woff"),
-    url("/https://kidchris.github.io/FasoCompute-clone/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/admin-icon.svg?krajj6#eaicon") format("svg");
+    src: url("https://Kidchris.github.io/FasoCompute-clone/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/admin-icon.eot?krajj6");
+    src: url("https://Kidchris.github.io/FasoCompute-clone/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/admin-icon.eot?krajj6#iefix") format("embedded-opentype"),
+    url("https://Kidchris.github.io/FasoCompute-clone/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/admin-icon.ttf?krajj6") format("truetype"),
+    url("https://Kidchris.github.io/FasoCompute-clone/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/admin-icon.woff?krajj6") format("woff"),
+    url("https://Kidchris.github.io/FasoCompute-clone/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/admin-icon.svg?krajj6#eaicon") format("svg");
     font-weight: normal;
     font-style: normal;
     font-display: block;
@@ -5028,7 +5028,7 @@ button.button__greyBg:hover:disabled {
 }
 
 .template__block.eael-block::before {
-    background: url("/https://kidchris.github.io/FasoCompute-clone/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/quick-setup/mask-group.png") no-repeat bottom right;
+    background: url("https://Kidchris.github.io/FasoCompute-clone/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/quick-setup/mask-group.png") no-repeat bottom right;
     z-index: -1;
     opacity: 0.3;
 }
